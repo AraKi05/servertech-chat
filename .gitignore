@@ -18,5 +18,5 @@ venv-*/
 *.pyc
 __pycache__/
 .pytest_cache/
-./server/build/*
-./testBoost
+server/build/
+testBoost
