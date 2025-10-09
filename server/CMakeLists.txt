@@ -72,6 +72,8 @@ target_link_libraries(
     ICU::data
     ICU::i18n
     ICU::uc
+    boost_charconv
+    pthread
 )
 
 target_include_directories(
